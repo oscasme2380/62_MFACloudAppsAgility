@@ -1,10 +1,7 @@
-Module – Installing a BIG-IP Appliance
-======================================
+Module – Create a basic APM Policy
+==================================
 
-.. TODO:: Needs module description
-
-In this module you will learn how to install a |f5| |bip| Appliance into your
-datacenter.
+In this module you will learn how to configure a basic APM Policy
 
 .. toctree::
    :maxdepth: 1

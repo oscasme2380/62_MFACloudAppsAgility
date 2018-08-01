@@ -1,10 +1,7 @@
-Module – Installing a BIG-IP Virtual Edition
-=============================================
+Module – Pre-Work Activities
+============================
 
-.. TODO:: Needs module description
-
-In this module you will learn how to install a |f5| |bip| |ve| into your
-environment.
+In this module you will create or download all the requirements to configure the **MFA for Cloud Apps Lab**
 
 .. toctree::
    :maxdepth: 1
